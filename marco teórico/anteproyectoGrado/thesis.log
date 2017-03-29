@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/TeX Live for SUSE Linux) (preloaded format=pdflatex 2017.1.29)  10 MAR 2017 08:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/TeX Live for SUSE Linux) (preloaded format=pdflatex 2017.1.29)  15 MAR 2017 08:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -501,19 +501,19 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 Chapter 1.
 [1
 
-] [2] [3]) (./background/background.tex [4]
+] [2] [3] [4]) (./background/background.tex [5]
 Chapter 2.
-[5
+[6
 
-]) (./conclusion/conclusion.tex [6]
+]) (./conclusion/conclusion.tex [7]
 Chapter 3.
-) (./thesis.bbl [7
+) (./thesis.bbl [8
 
 ]
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [8
+) [9
 
 ] (./thesis.aux) ) 
 Here is how much of TeX's memory you used:
@@ -523,16 +523,16 @@ Here is how much of TeX's memory you used:
  5874 multiletter control sequences out of 15000+600000
  10423 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,9n,24p,775b,191s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,10n,24p,775b,191s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
 /usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fon
 ts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsf
 onts/cm/cmsl12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (22 pages, 90534 bytes).
+Output written on thesis.pdf (23 pages, 93708 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
+ 102 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
