@@ -1,8 +1,7 @@
 # Anteproyecto de grado
 
-  Sergio David Romero Maldonado,
-  York Gutierrez
-
+  Sergio David Romero Maldonado
+  
 Para realizar el trabajo se recomienda hacer uso del editor de Latex TeXstudio.
 
 Para clonar el repositorio:
